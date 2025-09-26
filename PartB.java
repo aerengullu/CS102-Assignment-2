@@ -28,7 +28,7 @@ public class PartB {
             }
 
             else if (option == 3) {
-                partE.findSumOfOddAndEvenIndexes(array) ;
+                partE.findSumOfOddAndEvenNumberedIndexes(array) ;
             }
     }
         
@@ -37,3 +37,4 @@ public class PartB {
         
     }
 }
+
